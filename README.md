@@ -4,6 +4,6 @@
 
 六ヶ所村の核燃料サイクル施設から女川原発、福島第一へと南下しながら、聖光学院・八戸学院光星・花巻東を回る。
 
-公開ページ: https://040704shogo8848.github.io/tohoku-drive/
+公開ページ: https://offsite-notes.github.io/tohoku-drive/
 
 - `index.html` — 旅程。単一ファイル、外部依存なし、ダークモード対応
